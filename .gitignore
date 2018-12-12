@@ -1,0 +1,9 @@
+/node_modules
+/vendor
+/.idea
+.env
+.DS_Store
+Thumbs.db
+__memo.md
+event_file.json
+packaged.yaml
